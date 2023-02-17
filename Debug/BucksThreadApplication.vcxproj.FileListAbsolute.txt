@@ -1,1 +1,2 @@
 C:\Users\jvt05\source\repos\BucksThreadApplication\Debug\BucksThreadApplication.exe
+C:\Users\jvt05\Documents\BucksThreadApplication\Debug\BucksThreadApplication.exe
